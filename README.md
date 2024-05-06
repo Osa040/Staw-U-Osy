@@ -82,7 +82,7 @@
     <section id="offer">
         <h2>Oferta</h2>
         <ul>
-            <li><strong>Wędkarstwo:</strong> Staw u Osy to raj dla wędkarzy. Nasze wody obfitują w różnorodne gatunki ryb, a urozmaicone łowiska zapewniają niezapomniane chwile z wędką w dłoni.</li>
+     
             <li><strong>Plażowanie:</strong> Nasz malowniczy staw posiada piaszczyste plaże, idealne do opalania oraz wspaniałe tereny do piknikowania i zabaw na świeżym powietrzu.</li>
             <li><strong>Ścieżki spacerowe:</strong> Dla miłośników pieszych wędrówek proponujemy urokliwe ścieżki spacerowe, które prowadzą przez okoliczne lasy i tereny zielone.</li>
         </ul>
@@ -98,13 +98,13 @@
         <h2>Kontakt</h2>
         <p>Zapraszamy do odwiedzenia naszego stawu i spędzenia niezapomnianych chwil w otoczeniu pięknej natury.</p>
         <p>Staw u Osy<br>
-        ul. Przy Stawie 1<br>
-        00-000 Osowa<br>
-        Tel: +48 123 456 789<br>
-        Email: info@stawuosy.pl</p>
+        ul. Polna 2<br>
+        44-180 Płużniczka <br>
+        Tel: +48 665 428 385 <br>
+        Email: - - - - - - - </p>
     </section>
     <footer>
         &copy; 2024 Staw u Osy - Twój raj nad wodą
     </footer>
 </body>
-</html>
+</html>                
